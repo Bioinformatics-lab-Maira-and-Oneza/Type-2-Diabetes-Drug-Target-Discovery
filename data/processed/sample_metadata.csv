@@ -1,0 +1,21 @@
+Sample,Title,Treatment,Oxygen,Replicate,Group
+GSM8773456,CH1 - Control Hypoxia,Control,Hypoxia,1,CH
+GSM8773457,CH2 - Control Hypoxia,Control,Hypoxia,2,CH
+GSM8773458,CH3 - Control Hypoxia,Control,Hypoxia,3,CH
+GSM8773459,CH4 - Control Hypoxia,Control,Hypoxia,4,CH
+GSM8773460,CH5 - Control Hypoxia,Control,Hypoxia,5,CH
+GSM8773461,CN1 - Control Normoxia,Control,Normoxia,1,CN
+GSM8773462,CN2 - Control Normoxia,Control,Normoxia,2,CN
+GSM8773463,CN3 - Control Normoxia,Control,Normoxia,3,CN
+GSM8773464,CN4 - Control Normoxia,Control,Normoxia,4,CN
+GSM8773465,CN5 - Control Normoxia,Control,Normoxia,5,CN
+GSM8773466,IRH1 - Insulin Resistant Hypoxia,Insulin Resistant,Hypoxia,1,IRH
+GSM8773467,IRH2 - Insulin Resistant Hypoxia,Insulin Resistant,Hypoxia,2,IRH
+GSM8773468,IRH3 - Insulin Resistant Hypoxia,Insulin Resistant,Hypoxia,3,IRH
+GSM8773469,IRH4 - Insulin Resistant Hypoxia,Insulin Resistant,Hypoxia,4,IRH
+GSM8773470,IRH5 - Insulin Resistant Hypoxia,Insulin Resistant,Hypoxia,5,IRH
+GSM8773471,IRN1 - Insulin Resistant Normoxia,Insulin Resistant,Normoxia,1,IRN
+GSM8773472,IRN2 - Insulin Resistant Normoxia,Insulin Resistant,Normoxia,2,IRN
+GSM8773473,IRN3 - Insulin Resistant Normoxia,Insulin Resistant,Normoxia,3,IRN
+GSM8773474,IRN4 - Insulin Resistant Normoxia,Insulin Resistant,Normoxia,4,IRN
+GSM8773475,IRN5 - Insulin Resistant Normoxia,Insulin Resistant,Normoxia,5,IRN
